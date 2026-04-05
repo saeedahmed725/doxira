@@ -1,6 +1,6 @@
 # Doxira – AI Powered Document Editor 📄✨
 
-<img width="1024" height="495" alt="image" src="https://github.com/user-attachments/assets/628995c6-7712-415f-9f22-683d7fa64448" />
+<img width="1488" height="720" alt="Cover page 2 (1)" src="https://github.com/user-attachments/assets/9abc182e-37fb-4db2-8d2e-966fa175e177" />
 
 
 Doxira is an intelligent document editor designed to help users create, edit, and enhance professional documents such as CVs, reports, and business files using AI assistance directly inside the document.
