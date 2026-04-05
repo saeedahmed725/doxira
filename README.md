@@ -1,8 +1,8 @@
-# Docera – AI Powered Document Editor 📄✨
+# Doxira – AI Powered Document Editor 📄✨
 
-Docera is an intelligent document editor designed to help users create, edit, and enhance professional documents such as CVs, reports, and business files using AI assistance directly inside the document.
+Doxira is an intelligent document editor designed to help users create, edit, and enhance professional documents such as CVs, reports, and business files using AI assistance directly inside the document.
 
-The goal of Docera is simple: **write better documents, faster, with AI that understands context.**
+The goal of Doxira is simple: **write better documents, faster, with AI that understands context.**
 
 ---
 
