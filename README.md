@@ -1,7 +1,7 @@
 # Doxira – AI-Powered Document Editor 📄✨
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9abc182e-37fb-4db2-8d2e-966fa175e177" width="100%" />
+  <img width="100% alt="Gemini_Generated_Image_fn87ytfn87ytfn87" src="https://github.com/user-attachments/assets/0a675add-1178-49d7-b5df-3e2a3d44882d" />
 </p>
 
 ## ✨ Overview
@@ -11,7 +11,15 @@
 From CVs to business reports, Doxira brings **context-aware AI directly into your writing workflow**, eliminating the need to switch between tools.
 
 > 💡 Think of it as Google Docs + AI Assistant — but actually useful.
+## 📱 App Preview
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f38999f9-f664-4ff6-939d-95d2e99bee54" width="18%" />
+  <img src="https://github.com/user-attachments/assets/216ea507-b412-462b-8472-1d47cd3136c5" width="18%" />
+  <img src="https://github.com/user-attachments/assets/f18c8ba8-39f1-41cb-a569-794f51f8426b" width="18%" />
+  <img src="https://github.com/user-attachments/assets/b689e939-945b-443e-a41d-3768a8b5573c" width="18%" />
+  <img src="https://github.com/user-attachments/assets/82ead26b-1ae1-447b-87b6-4ea8a55d70b6" width="18%" />
+</p>
 ---
 
 ## 🚀 Core Features
