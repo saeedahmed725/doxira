@@ -1,7 +1,8 @@
 # Doxira – AI-Powered Document Editor 📄✨
 
 <p align="center">
-  <img width="100% alt="Gemini_Generated_Image_fn87ytfn87ytfn87" src="https://github.com/user-attachments/assets/0a675add-1178-49d7-b5df-3e2a3d44882d" />
+  <img width=100%"  alt="Gemini_Generated_Image_fn87ytfn87ytfn87 (1)" src="https://github.com/user-attachments/assets/ad23f9f7-2473-45e8-9468-0777c7d32785" />
+
 </p>
 
 ## ✨ Overview
@@ -72,7 +73,8 @@ From CVs to business reports, Doxira brings **context-aware AI directly into you
 
 ### 📝 Editor Experience
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/20c7fc30-4f5c-4dc9-bd2d-bfa1a26dbb23" width="30%" />
+
+  <img src="https://github.com/user-attachments/assets/971522b1-f287-40ab-9522-c9460fb218fe" width="30%" />
   <img src="https://github.com/user-attachments/assets/3fc5fb40-8a61-4690-8f0c-4d9585cda1da" width="30%" />
   <img src="https://github.com/user-attachments/assets/c8a247c8-bfe6-47a1-96ad-055ec941f1b4" width="30%" />
 </p>
