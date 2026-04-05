@@ -9,6 +9,15 @@ The goal of Doxira is simple: **write better documents, faster, with AI that und
 
 ---
 
+<img width="540" height="960" alt="1" src="https://github.com/user-attachments/assets/f38999f9-f664-4ff6-939d-95d2e99bee54" />
+<img width="540" height="960" alt="2" src="https://github.com/user-attachments/assets/216ea507-b412-462b-8472-1d47cd3136c5" />
+<img width="540" height="960" alt="6" src="https://github.com/user-attachments/assets/f18c8ba8-39f1-41cb-a569-794f51f8426b" />
+<img width="540" height="960" alt="5" src="https://github.com/user-attachments/assets/b689e939-945b-443e-a41d-3768a8b5573c" />
+<img width="540" height="960" alt="3" src="https://github.com/user-attachments/assets/82ead26b-1ae1-447b-87b6-4ea8a55d70b6" />
+
+<img width="540" height="960" alt="4" src="https://github.com/user-attachments/assets/14fe2ce5-5cd1-48bf-bd71-a521a707d7cf" />
+
+
 ## 🚀 Features
 
 - **AI-Powered Document Editing**
