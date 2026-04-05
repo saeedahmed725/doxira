@@ -12,6 +12,23 @@
 From CVs to business reports, Doxira brings **context-aware AI directly into your writing workflow**, eliminating the need to switch between tools.
 
 > 💡 Think of it as Google Docs + AI Assistant — but actually useful.
+
+## 📥 Download Doxira
+
+<p align="center">
+  <a href="YOUR_APP_STORE_LINK">
+    <img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple" />
+  </a>
+  
+  <a href="YOUR_PLAY_STORE_LINK">
+    <img src="https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play" />
+  </a>
+  
+  <a href="YOUR_DIRECT_DOWNLOAD_LINK">
+    <img src="https://img.shields.io/badge/Download%20APK-Direct-blue?style=for-the-badge&logo=android" />
+  </a>
+</p>
+
 ## 📱 App Preview
 
 <p align="center">
@@ -26,37 +43,76 @@ From CVs to business reports, Doxira brings **context-aware AI directly into you
 ## 🚀 Core Features
 
 ### 🤖 AI-Powered Writing
-- Real-time content generation & rewriting
-- Smart grammar correction & phrasing enhancement
-- Context-aware suggestions based on document content
+- Real-time content generation, rewriting, and enhancement
+- Advanced grammar correction & tone adjustment
+- Context-aware suggestions based on full document understanding
+- Section-based rewriting (paragraph, CV section, full document)
+
+---
 
 ### 💬 In-Document AI Chat
-- Built-in AI assistant sidebar
-- Ask questions, refine sections, improve structure instantly
-- No need to leave the editor
+- Built-in AI assistant with contextual awareness
+- Ask questions about your document and get precise answers
+- Multi-turn conversations with **memory support**
+- Step-by-step document improvement guidance
 
-### 📄 Multi-Format Support
-- Import: **PDF, DOCX, PPT, Excel**
-- Export: **PDF, Word**
-- Intelligent parsing & structure understanding
+---
+
+### 🧠 AI Agents & Automation
+- Custom **AI Agents (Deep Agents)** for complex tasks
+- Multi-step reasoning (analyze → plan → generate)
+- Automated document enhancement workflows
+- Task-based execution (e.g. “improve CV”, “summarize report”)
+
+---
+
+### 🧩 Memory & Context System
+- Short-term & long-term memory for conversations
+- Context persistence across editing sessions
+- Personalized AI responses based on user interactions
+
+---
+
+### 📄 Smart Document Understanding
+- Parse and understand **PDF, DOCX, PPT, Excel**
+- Extract structure (headings, sections, tables)
+- Semantic understanding of document content
+- Context-aware editing across entire document
+
+---
+
+### 🔍 Intelligent Search System
+- Semantic search using embeddings (not just keywords)
+- Search across all documents (local + cloud)
+- Fast indexed retrieval with high relevance
+
+---
+
+### ⚙️ Background Processing
+- Async document processing using task queues
+- Heavy AI operations handled in background (Celery)
+- Smooth UX without blocking the editor
+
+---
 
 ### 📂 Cloud Storage & File Management
-- Secure upload & storage
+- Secure upload & storage (cloud-based)
 - Organized document management system
-- Fast retrieval & syncing
+- Real-time syncing across devices
 
-### 🔍 Powerful Search Engine
-- Lightning-fast search across documents
-- Indexed for performance and scalability
+---
 
-### 💳 Subscription System
-- Premium feature gating
+### 💳 Subscription & Access Control
+- Feature-based access system
+- Premium AI capabilities for advanced users
 - Integrated payment workflows
 
+---
+
 ### 🎨 Modern UI/UX
-- Clean & distraction-free interface
-- Dark mode + theme customization
-- Smooth and responsive experience
+- Clean, distraction-free writing experience
+- Dark mode & customizable themes
+- Smooth, responsive, and productivity-focused design
 
 ---
 
@@ -117,16 +173,45 @@ From CVs to business reports, Doxira brings **context-aware AI directly into you
 
 ---
 
-## 🏗️ Tech Stack (Suggested Section 👀)
+## 🏗️ Tech Stack
 
-> (ضيف ده لو عايز تبين قوتك بقى)
+### 🎨 Frontend
+- **Flutter** – Cross-platform UI development
 
-- **Frontend:** Flutter  
-- **Backend:** FastAPI / Node.js  
-- **AI:** LangChain + LLMs  
-- **Database:** MongoDB / Vector DB  
-- **Storage:** Cloud Storage (Firebase / S3)
+---
 
+### ⚙️ Backend
+- **FastAPI** – High-performance API framework
+- **MVC Architecture** – Structured and scalable codebase
+- **Celery + Redis** – Background jobs & task queue processing
+
+---
+
+### 🤖 AI & Intelligent Systems
+- **LangChain** – Context-aware AI workflows
+- **Custom AI Agents (Deep Agents)** – Multi-step reasoning & task execution
+- **LLMs** – Document understanding & generation
+- **Memory Systems (Short/Long-Term)** – Context persistence across interactions
+
+---
+
+### 🗄️ Database & Storage
+- **MongoDB** – NoSQL database for flexible document storage
+- **Vector Database** – Semantic search & embeddings
+- **AWS S3** – Scalable file storage
+- **Google Cloud Services** – AI & infrastructure support
+
+---
+
+### 🚀 DevOps & Infrastructure
+- **Docker** – Containerization & environment consistency
+- **CI/CD Pipelines** – Automated testing & deployment
+- **Cloud Deployment** – Scalable production environment
+
+---
+
+### ⚡ Caching & Performance
+- **Redis** – Caching, queues, and real-time performance optimization
 ---
 
 ## 📌 Project Status
@@ -134,8 +219,3 @@ From CVs to business reports, Doxira brings **context-aware AI directly into you
 🛠 **Actively in Development**  
 New features, AI improvements, and UX enhancements are continuously being added.
 
----
-
-## 📄 License
-
-This project is for **educational and experimental purposes**.
