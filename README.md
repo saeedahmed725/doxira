@@ -20,11 +20,11 @@ From CVs to business reports, Doxira brings **context-aware AI directly into you
     <img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple" />
   </a>
   
-  <a href="YOUR_PLAY_STORE_LINK">
+  <a href="https://play.google.com/store/apps/details?id=com.doxira.ai.app">
     <img src="https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play" />
   </a>
   
-  <a href="YOUR_DIRECT_DOWNLOAD_LINK">
+  <a href="https://github.com/saeedahmed725/doxira/releases/download/v2026.04.07.1/app-prod-release.apk">
     <img src="https://img.shields.io/badge/Download%20APK-Direct-blue?style=for-the-badge&logo=android" />
   </a>
 </p>
