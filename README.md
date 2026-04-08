@@ -12,6 +12,7 @@
 From CVs to business reports, Doxira brings **context-aware AI directly into your writing workflow**, eliminating the need to switch between tools.
 
 > 💡 Think of it as Google Docs + AI Assistant — but actually useful.
+> Soon (Play strore, App Store)
 
 ## 📥 Download Doxira
 
